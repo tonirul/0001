@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+:root{
+    /*color section*/
+    --top-border:rgb(247,147,30);
+    --top-header:rgb(236,236,236);
+    --main-background:rgb(255,255,255);
+    --navbar-background:rgb(32,32,33);
+    --left-nav-bg:rgb(70,69,69);
+    --footer-color:rgb(60,60,61);
+
+    /*font section*/
+    --font-family:'Open Sans', sans-serif;
+}
